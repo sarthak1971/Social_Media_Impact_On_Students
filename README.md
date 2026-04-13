@@ -72,8 +72,10 @@ git clone https://github.com/your-username/social-media-student-analysis.git
 cd social-media-student-analysis
 pip install -r requirements.txt
 
+---
 
-🚀 Usage
+
+## 🚀 Usage
 Run data_preprocessing.ipynb for cleaning
 Run EDA.ipynb for analysis and visualization
 📈 Key Insights
