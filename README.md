@@ -66,9 +66,11 @@ This project performs **Exploratory Data Analysis (EDA)** on a dataset that exam
 --- 
 
 ## 🚀 Usage
-Run data_preprocessing.ipynb for cleaning
-Run EDA.ipynb for analysis and visualization
-📈 Key Insights
+- Run data_preprocessing.ipynb for cleaning
+- Run EDA.ipynb for analysis and visualization
+  ---
+  
+##📈 Key Insights
 High social media usage correlates with lower mental health scores
 Less sleep (<6 hours) negatively impacts well-being
 Excess usage affects academic performance
@@ -76,25 +78,26 @@ Excess usage affects academic performance
 ---
 
 ##💡 Recommendations
-Promote digital well-being awareness
-Encourage screen-time management
-Provide mental health support
+- Promote digital well-being awareness
+- Encourage screen-time management
+- Provide mental health support
 ---
 
 ##🔮 Future Scope
-Machine Learning models
-Interactive dashboards
-Larger dataset integration
+- Machine Learning models
+- Interactive dashboards
+- Larger dataset integration
 ---
 
 ## 👤 Author
 
-Sarthak Somani
-Aspiring Data Analyst
+- Sarthak Somani
+- Aspiring Data Analyst
 
-⭐ Support
+## ⭐ Support
 
-If you like this project, give it a ⭐ on GitHub!
+- If you like this project, give it a ⭐ on GitHub!
+  ---
 
 ## ⚙️ Installation
 
