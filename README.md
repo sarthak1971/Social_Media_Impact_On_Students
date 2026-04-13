@@ -63,24 +63,31 @@ This project performs **Exploratory Data Analysis (EDA)** on a dataset that exam
 - Seaborn  
 - Scikit-learn  
 
----
+--- 
 
- 🚀 Usage
+## 🚀 Usage
 Run data_preprocessing.ipynb for cleaning
 Run EDA.ipynb for analysis and visualization
 📈 Key Insights
 High social media usage correlates with lower mental health scores
 Less sleep (<6 hours) negatively impacts well-being
 Excess usage affects academic performance
-💡 Recommendations
+
+---
+
+##💡 Recommendations
 Promote digital well-being awareness
 Encourage screen-time management
 Provide mental health support
-🔮 Future Scope
+---
+
+##🔮 Future Scope
 Machine Learning models
 Interactive dashboards
 Larger dataset integration
-👤 Author
+---
+
+## 👤 Author
 
 Sarthak Somani
 Aspiring Data Analyst
