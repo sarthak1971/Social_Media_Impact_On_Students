@@ -72,3 +72,29 @@ git clone https://github.com/your-username/social-media-student-analysis.git
 cd social-media-student-analysis
 pip install -r requirements.txt
 
+
+🚀 Usage
+Run data_preprocessing.ipynb for cleaning
+Run EDA.ipynb for analysis and visualization
+📈 Key Insights
+High social media usage correlates with lower mental health scores
+Less sleep (<6 hours) negatively impacts well-being
+Excess usage affects academic performance
+💡 Recommendations
+Promote digital well-being awareness
+Encourage screen-time management
+Provide mental health support
+🔮 Future Scope
+Machine Learning models
+Interactive dashboards
+Larger dataset integration
+👤 Author
+
+Sarthak Somani
+Aspiring Data Analyst
+
+⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
+
+
